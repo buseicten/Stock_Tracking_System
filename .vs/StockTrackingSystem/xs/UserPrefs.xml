@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BA2E6DB0-72D9-4D55-AED6-4E63098AFE1C}|Default">
+  <MonoDevelop.Ide.ItemProperties.StockTrackingSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StockTrackingSystem" expanded="True">
+            <Node name="StockTrackingSystem" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Department" expanded="True" />
+                <Node name="Login" expanded="True" />
+                <Node name="Personnel" expanded="True" />
+                <Node name="Products" expanded="True">
+                  <Node name="ProductDeletionForm.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
